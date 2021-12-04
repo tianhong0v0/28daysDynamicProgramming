@@ -3,7 +3,7 @@
 - **Method**: Solving Problems with "Dynamic Programming" Tag on Leetcode
 - **Duration**: 28 days
 
-# When to Use Dynamic Programming?: 
+# When to Use Dynamic Programming?
 
 There are two key attributes that a problem must have in order for dynamic programming to be applicable: **optimal substructure** and **overlapping sub-problems**. In contrast with "divide and conquer" strategy. 
 

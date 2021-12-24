@@ -10,6 +10,10 @@ import java.util.Arrays;
 class Solution {
     public int lengthOfLIS(int[] nums) {
         if (nums.length == 1) return 1;
+        //dp[i] represents: 
+        //  the length of the longest increasing sub-sequence ENDING with nums[i]
+        //ATTENTION: what if dp[i] represents:
+        //  the length of the longest increasing sub-sequence NOT NECESSARILY ENDING nums[i] 
         int[] dp = new int[nums.length];
         int res = 0;
         Arrays.fill(dp, 1);

@@ -13,6 +13,9 @@ There are two key attributes that a problem must have in order for dynamic progr
 2. Bottom-up approach: Once we formulate the solution to a problem recursively as in terms of its sub-problems, we can try reformulating the problem in a bottom-up fashion: try solving the sub-problems first and use their solutions to build-on and arrive at solutions to bigger sub-problems. This is also usually done in a tabular form by iteratively generating solutions to bigger and bigger sub-problems by using the solutions to small sub-problems. For example, if we already know the values of F41 and F40, we can directly calculate the value of F42.
 
 # Project Summary and Reflections? 
-- Day 10: (unfinishing)
+- Day 10: 
+  > - For problems that can be solved with recursion stright-forwardly, writing down the Recursive Formula first. 
+  > - Each element in dp[]...[] could represent a state (T or F), or a best solution for a sub-problem,  or a best solution for a sub-problem under certain conditoin 
+   
 - Day 20:
 - Day 28:

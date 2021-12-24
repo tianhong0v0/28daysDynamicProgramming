@@ -14,8 +14,5 @@ There are two key attributes that a problem must have in order for dynamic progr
 
 # Project Summary and Reflections? 
 - Day 10: 
-  > - For problems that can be solved with recursion stright-forwardly, writing down the Recursive Formula first. 
-  > - Each element in dp[]...[] could represent a state (T or F), or a best solution for a sub-problem,  or a best solution for a sub-problem under certain conditoin 
-   
 - Day 20:
 - Day 28:
